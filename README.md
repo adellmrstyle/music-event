@@ -1,1 +1,1 @@
-# music-event
+# music.event
